@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* First Image (https://github.com/May-W/liftoff-assignments/blob/master/P3-Project_Planning/1.jpg)
-* Second Image(https://github.com/May-W/liftoff-assignments/blob/master/P3-Project_Planning/2.jpg)
-* Third Image (https://github.com/May-W/liftoff-assignments/blob/master/P3-Project_Planning/3.jpg)
+* ![First Image] (https://github.com/May-W/liftoff-assignments/blob/master/P3-Project_Planning/1.jpg)
+* ![Second Image](https://github.com/May-W/liftoff-assignments/blob/master/P3-Project_Planning/2.jpg)
+* ![Third Image] (https://github.com/May-W/liftoff-assignments/blob/master/P3-Project_Planning/3.jpg)
 
 ### Project Tracker
 
