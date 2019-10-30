@@ -8,3 +8,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 * [Github Project Repository](https://github.com/May-W/liftoff-capstone)
+* [Wireframes in P3 assignment](https://github.com/May-W/liftoff-assignments/tree/master/P3-Project_Planning)
+* [Trello user stories](https://trello.com/b/mfxUkTBL/liftoff-project)
